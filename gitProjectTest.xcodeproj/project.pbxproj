@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AB03E14F2BEF845B008171E5 /* AppDelegatee.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB03E14E2BEF845B008171E5 /* AppDelegate.swift */; };
-		AB03E1512BEF845B008171E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB03E1502BEF845B008171E5 /* SceneDelegate.swift */; };
+		AB03E1512BEF845B008171E5 /* SceneDelegaaate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB03E1502BEF845B008171E5 /* SceneDelegate.swift */; };
 		AB03E1532BEF845B008171E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB03E1522BEF845B008171E5 /* ViewController.swift */; };
 		AB03E1562BEF845B008171E5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB03E1542BEF845B008171E5 /* Main.storyboard */; };
 		AB03E1582BEF845C008171E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB03E1572BEF845C008171E5 /* Assets.xcassets */; };
